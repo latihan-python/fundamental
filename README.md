@@ -1,0 +1,2 @@
+# fundamental
+Latihan Fundamental Python

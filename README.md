@@ -1,3 +1,3 @@
 # fundamental
 Latihan Fundamental Python
-tes cek ubah kode pycharm
+tes cek lagi ubah kode pycharm
